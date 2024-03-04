@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(0, 0, 0); /* Set background color to black */
+    background-image: url(https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?cs=srgb&dl=pexels-francesco-ungaro-998641.jpg&fm=jpg); /* Set background image */
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+}
